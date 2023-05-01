@@ -1,17 +1,11 @@
-# sua_saude_app
+# Sua Saúde
 
-A new Flutter project.
+## CRUD API
 
-## Getting Started
+Este projeto é um exemplo simplificado de como realizar um CRUD conectado à uma API falsa, utilizando Flutter e mockAPI.
 
-This project is a starting point for a Flutter application.
+### Abaixo segue um vídeo mostrando o funcionamento da aplicação.
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1GDqHq77pYHBFDm7lVcvvutLbB_QPr7cm/view?usp=sharing" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # sua_saude_crud_mock_API
